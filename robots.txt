@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 User-agent: Yeti
 Allow: /
-Sitemap: http://xn--777-e20nm83bh0o.com/sitemap.xml
+Sitemap: https://xn--777-e20nm83bh0o.com/sitemap.xml
